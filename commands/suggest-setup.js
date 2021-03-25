@@ -11,7 +11,7 @@ module.exports = {
     const firstmsg = new Discord.MessageEmbed()
     .setColor('GREEN')
     .setDescription('Thanks for adding suggest - setup!')
-    .setFooter(message.guild.name, message.guild.iconURL({dynami: true}));
+    .setFooter(message.guild.name, message.guild.iconURL({dynamic: true}));
     message.channel.send(firstmsg);
 
     console.log('Setup Done')
