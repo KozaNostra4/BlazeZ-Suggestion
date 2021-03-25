@@ -34,4 +34,4 @@ client.on('message', message => {
 		client.commands.get('suggest-setup').execute(message, args, Discord, client);
     }
     })
-	client.login('ODE2MzcyNDE3MzExMjc3MTA2.YD6ADw.J2WovddQ2Yw4sSLoeMIznzBlKdI');
+	client.login('TOKEN');
