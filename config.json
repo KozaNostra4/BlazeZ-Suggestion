@@ -1,5 +1,4 @@
 {
-    "prefix": "PREFIX",
     "token": "TOKEN //can found here: https://discord.com/developers/applications // In Bot Category!",
     "channelID": "CHANNEL ID OF SUGGESTION",
     "emoji1": "EMOJI OR CUSTOM EMOJI ID ",
