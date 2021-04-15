@@ -1,7 +1,7 @@
 {
     "prefix": "PREFIX",
     "token": "TOKEN //can found here: https://discord.com/developers/applications // In Bot Category!",
-    "channelID": "CHANNEL IF OF SUGGESTION",
+    "channelID": "CHANNEL ID OF SUGGESTION",
     "emoji1": "EMOJI OR CUSTOM EMOJI ID ",
     "emoji2": "EMOJI OR CUSTOM EMOJI ID ",
     "color": "COLOR FOR EMBED"
