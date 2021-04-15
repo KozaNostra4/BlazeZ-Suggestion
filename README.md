@@ -20,10 +20,10 @@ Auto Suggestion Setup Channel
 Γράφετε exit μόλις τελειώσει το install !
 
 `6ο Βήμα`
-Μέσα στο `Visual Studio Code` ανοίγετε ένα terminal και τρέχετε την εντολή `node . `
+Μέσα στο `config.json` δίνετε τα απαραίτητα στοιχεία!
 
 `7o Βήμα`
-Σε ένα κανάλι γράφετε : !suggest-setup 
+Μέσα στο `Visual Studio Code` ανοίγετε ένα terminal και τρέχετε την εντολή `node . `
 
 Έτοιμοι! 
 
